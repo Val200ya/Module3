@@ -1,0 +1,15 @@
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\bin\Debug\Module3.exe.config
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\bin\Debug\Module3.exe
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\bin\Debug\Module3.pdb
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.csproj.AssemblyReference.cache
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\App.g.cs
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3_MarkupCompile.cache
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3_MarkupCompile.lref
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.g.resources
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.Properties.Resources.resources
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.csproj.GenerateResource.cache
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.csproj.CoreCompileInputs.cache
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.exe
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.pdb
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\View\LoginWindow.g.cs
+C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\View\LoginWindow.baml
