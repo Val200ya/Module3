@@ -37,7 +37,7 @@ namespace Module3.View
             {
                 AddUserToDatabase();
 
-                MessageBox.Show("Регистрация успешна!");
+                MessageBox.Show("Регистрация успешна!", "Сообщение", MessageBoxButton.OK, MessageBoxImage.Information);
                 this.Close();
             }
         }

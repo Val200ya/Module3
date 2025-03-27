@@ -10,7 +10,8 @@ namespace Module3.Model
     public class Database
     {
         private SqlConnection connection = new SqlConnection(
-            "Data Source=510EC4;Initial Catalog=hotel_miami_db;Integrated Security=True;");
+            //"Data Source=510EC4;Initial Catalog=hotel_miami_db;Integrated Security=True;");
+            "Data Source=509EC10;Initial Catalog=hotel_miami_db;Integrated Security=True;");
         public void OpenConnection()
         {
             if (connection.State == System.Data.ConnectionState.Closed)

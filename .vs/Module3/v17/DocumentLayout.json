@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Module3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\austr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E\\module3\\module3\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\admin\\source\\repos\\module3\\module3\\view\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\view\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\admin\\source\\repos\\module3\\module3\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\austr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E\\module3\\module3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:Module3\\View\\LoginWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\austr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E\\module3\\module3\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\admin\\source\\repos\\module3\\module3\\view\\administratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\view\\administratorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\austr\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0435\u043C\u043E\\module3\\module3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\admin\\source\\repos\\module3\\module3\\view\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\view\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|c:\\users\\admin\\source\\repos\\module3\\module3\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:module3\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|C:\\Users\\admin\\source\\repos\\Module3\\Module3\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:Module3\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|C:\\Users\\admin\\source\\repos\\Module3\\Module3\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C694061D-EEC7-4857-B3DE-F82D15C47560}|Module3\\Module3.csproj|solutionrelative:Module3\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,11 +94,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Module3\\View\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "Module3\\View\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:33:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "Module3\\Model\\Database.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\Model\\Database.cs",
+              "RelativeToolTip": "Module3\\Model\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:29:59.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "Module3\\View\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\RegistrationWindow.xaml",
+              "RelativeToolTip": "Module3\\View\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T10:27:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministratorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\AdministratorWindow.xaml",
+              "RelativeDocumentMoniker": "Module3\\View\\AdministratorWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\AdministratorWindow.xaml",
+              "RelativeToolTip": "Module3\\View\\AdministratorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T10:27:18.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\View\\LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Module3\\View\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\LoginWindow.xaml",
               "RelativeToolTip": "Module3\\View\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T20:25:25.855Z",
@@ -90,37 +156,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\Model\\User.cs",
               "RelativeDocumentMoniker": "Module3\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\Model\\User.cs",
               "RelativeToolTip": "Module3\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T19:52:46.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T19:52:46.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "View\\LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\View\\LoginWindow.xaml.cs",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "Module3\\View\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\View\\LoginWindow.xaml.cs",
               "RelativeToolTip": "Module3\\View\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T19:50:09.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\App.xaml",
               "RelativeDocumentMoniker": "Module3\\App.xaml",
-              "ToolTip": "C:\\Users\\austr\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u0415\u041C\u041E\\Module3\\Module3\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Module3\\Module3\\App.xaml",
               "RelativeToolTip": "Module3\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T19:45:33.894Z",
