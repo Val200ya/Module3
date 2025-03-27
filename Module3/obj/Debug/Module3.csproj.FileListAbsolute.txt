@@ -13,3 +13,22 @@ C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Deb
 C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\Module3.pdb
 C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\View\LoginWindow.g.cs
 C:\Users\austr\OneDrive\Рабочий стол\ДЕМО\Module3\Module3\obj\Debug\View\LoginWindow.baml
+C:\Users\admin\Source\Repos\Module3\Module3\bin\Debug\Module3.exe.config
+C:\Users\admin\Source\Repos\Module3\Module3\bin\Debug\Module3.exe
+C:\Users\admin\Source\Repos\Module3\Module3\bin\Debug\Module3.pdb
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\AdministratorWindow.g.cs
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\LoginWindow.g.cs
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\App.g.cs
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3_MarkupCompile.cache
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3_MarkupCompile.lref
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\LoginWindow.baml
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\AdministratorWindow.baml
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\View\RegistrationWindow.baml
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.g.resources
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.Properties.Resources.resources
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.exe
+C:\Users\admin\Source\Repos\Module3\Module3\obj\Debug\Module3.pdb

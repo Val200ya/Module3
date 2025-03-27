@@ -1,4 +1,5 @@
 ﻿using Module3.Model;
+using Module3.View;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,6 @@ namespace Module3
     /// </summary>
     public partial class LoginWindow : Window
     {
-        User user = new User("admin", "1234");
         int count = 0;
         public LoginWindow()
         {
@@ -29,6 +29,7 @@ namespace Module3
 
         private void LoginButtonClick(object sender, RoutedEventArgs e)
         {
+            var user = new User("Pupkin", "Vasya", "admin", "1234", "Администратор");
             
             if (LoginTextBox.Text.Equals("") || LoginPasswordBox.Password.Equals(""))
             {
@@ -42,22 +43,18 @@ namespace Module3
                     LoginButton.IsEnabled = false;
                 } 
             }
-            else if (LoginTextBox.Text.Equals(user.getLogin()) && LoginPasswordBox.Password.Equals(user.getPassword()))
+            else if (LoginTextBox.Text.Equals(user.Login) && LoginPasswordBox.Password.Equals(user.Password))
             {
                 MessageBox.Show("Добро пожаловать!", "Успех", MessageBoxButton.OK,
                     MessageBoxImage.Information);
+                AdministratorWindow window = new AdministratorWindow();
+                window.Show();
+                this.Close();
             }
             else
             {
                 MessageBox.Show("Неверный логин или пароль. Попробуйте ещё раз.", "Ошибка",
                     MessageBoxButton.OK, MessageBoxImage.Error);
-                count++;
-                if (count > 3)
-                {
-                    MessageBox.Show("Вход заблокирован. Пожалуйста, обратитесь к администратору для разблокировки.",
-                        "Блокирование", MessageBoxButton.OK, MessageBoxImage.Exclamation);
-                    LoginButton.IsEnabled = false;
-                }
             }
         }
     }
